@@ -1,2 +1,5 @@
-gplda　provided by MSR，
-it　can be used to do a lot extend experiment for modified PLDA
+Original PLDA implementation
+====
+The uploaded matlab including gplda algorithm implementation process following by the references mentioned inside the file.
+Recently, we have implement several upgraded PLDA algorithm by modifying this code, and the results show great. at least 10% enhancement.
+After NIST, we will upload the work we done
